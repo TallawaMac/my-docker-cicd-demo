@@ -27,4 +27,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: yourdockerhubusername/my-docker-cicd-demo:latest
+        tags: TallawaMac/my-docker-cicd-demo:latest
